@@ -1,4 +1,4 @@
-# CastaBattle-PSW
+# CastaBattle
 
 Trabalho de PSW
 
