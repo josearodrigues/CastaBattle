@@ -8,7 +8,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.build.target>${java.version}</project.build.target>
 		<project.build.source>${java.version}</project.build.source>
@@ -56,7 +56,7 @@
 		<dependency>
 		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
-		    <version>4.12</version>
+		    <version>4.13.1</version>
 		</dependency>					
     </dependencies>
     
