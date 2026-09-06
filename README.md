@@ -75,7 +75,7 @@ A aplicação adota o padrão MVC (Model-View-Controller) gerenciado pelo Spring
 * **Especificações Web**: Java Servlet API 3.1, JavaServer Pages (JSP 2.3) e JSTL 1.2
 * **Gerenciador de Dependências e Build**: Apache Maven
 * **Servidor de Aplicação / Container Servlet**: Apache Tomcat 8+ (ou Jetty)
-* **Logging & Testes**: Log4j, JUnit
+* **Testes**: JUnit
 
 ---
 
